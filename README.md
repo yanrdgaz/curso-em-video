@@ -1,2 +1,3 @@
-# curso-em-video
-Desafios e exercícios das aulas de Python do Curso em Vídeo.
+# Curso de Python - Curso em Vídeo
+___
+Repositório para armazenar desafios e exercícios propostos pelo professor Gustavo Guanabara do canal Curso em Vídeo.
